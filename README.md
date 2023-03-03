@@ -1,5 +1,5 @@
 <hr/>
-<h1 align="center">Hey 👋,I am Yagnesh </h1>
+<h1 align="center">Hey 👋,I am Yagnesh Sai </h1>
 <!-- <h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3> -->
  
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=aman-singanamala" alt="Aman Singanamala" />
@@ -12,7 +12,7 @@
 
 <h4 align="center"> 👨💻 Data Science Enthusiast</h4>
 <h4 align="center"> 💬 Ask me about CSS, HTML, Python</h4>
-<h4 align="center"> 📫 Reach me at: <b>amansinganamala@gmail.com</b></h4>
+<h4 align="center"> 📫 Reach me at: <b>yagnesh.padarthy@gmail.com</b></h4>
 <h4 align="center"> 😄 Pronouns: He/Him.</h4>
 
 
@@ -22,12 +22,12 @@
 <h2 align="center"> GITHUB ACTIVITY 📊:</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aman-singanamala&&show_icons=true&theme=algolia&hide_border=true" alt="AMAN SINGANAMALA GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=yag-1234&&show_icons=true&theme=algolia&hide_border=true" alt="YAGNESH SAI GitHub Stats">
   <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singanamala&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="AMAN SINGANAMALA GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yag-1234&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="YAGNESH SAI GitHub Stats">
 
   <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-singanamala&&show_icons=true&&theme=algolia&hide_border=true" alt="AMAN SINGANAMALA* GitHub Stats"> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yag-1234&&show_icons=true&&theme=algolia&hide_border=true" alt="YAGNESH SAI* GitHub Stats"> 
   </p>
 
 
