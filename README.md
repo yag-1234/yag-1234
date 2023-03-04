@@ -13,7 +13,7 @@
 <h4 align="center"> 👨💻 Data Science Enthusiast</h4>
 <h4 align="center"> 💬 Ask me about CSS, HTML, Python</h4>
 <h4 align="center"> 📫 Reach me at: <b>yagnesh.padarthy@gmail.com</b></h4>
-<h4 align="center"> 😄 Pronouns: He/Him.</h4>
+<h4 align="center"> 😄 Pronouns: He.</h4>
 
 
 
