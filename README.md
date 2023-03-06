@@ -22,7 +22,7 @@
 <h2 align="center"> GITHUB ACTIVITY 📊:</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yag-1234&&show_icons=true&theme=algolia&hide_border=true" alt="YAGNESH SAI GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=yag-1234 && show_icons=true&theme=algolia&hide_border=true" alt="YAGNESH SAI GitHub Stats">
   <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yag-1234&layout=compact&&show_icons=true&&theme=algolia&hide_border=true" alt="YAGNESH SAI GitHub Stats">
 
