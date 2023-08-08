@@ -1,21 +1,64 @@
 <hr/>
 <h1 align="center">Hey 👋,I am Yagnesh Sai </h1>
-<!-- <h3 align="center">A Web Developer and a Machine Learning Enthusiast.</h3> -->
+<h4 align="center">I'm a passionate Machine Learning enthusiast and Java Developer with a strong foundation in programming, web technologies. I'm currently pursuing my B.Tech in Computer Science at VIT University. I believe in continuous learning and creating solutions that make a positive impact.
+</h4>
  
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yag-1234" alt="Aman Singanamala" />
-
-
-
-
-
-
-
-<h4 align="center"> 👨💻 Data Science Enthusiast</h4>
-<h4 align="center"> 💬 Ask me about CSS, HTML, Python</h4>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=yag-1234" alt="Padarthy Yagnesh Sai" />
+   
+<h4 align="center"> 👨💻 Java Developer Enthusiast </h4>
+<h4 align="center"> 💬 Ask me about Java,HTML,CSS,Data Structures and Algorithms, MySql</h4>
 <h4 align="center"> 📫 Reach me at: <b>yagnesh.padarthy@gmail.com</b></h4>
 <h4 align="center"> 😄 Pronouns: He.</h4>
 
+## 🎓 Education
 
+- B.Tech in Computer Science, VIT University (Graduation July 2024, CGPA: 8.97)
+- Higher Secondary, Umamaheswara Jr College (Graduated June 2020, Cumulative Percentage: 96.9%)
+
+## 🛠️ Skills
+
+### Programming Languages
+
+- **Advance**: Python, Java
+- **Intermediate**: SQL, C, Docker
+- **Novice**: Kubernetes, YAML, Datree
+
+### Web Development
+
+- HTML
+- CSS
+- JavaScript
+- React (Intermediate)
+
+### Tools
+
+- VS Code
+- PyCharm
+- Atom
+- Windows
+- Linux
+
+## 🚀 Projects
+
+### Machine Vision Application Speedup | Image Segmentation
+
+- Achieved significant speed increases in object counting on a conveyor belt.
+- Implemented Gaussian Blur, Sobel Edge Detection, Hough Circle Transform, and Otsu Thresholding algorithms.
+- Utilized Windows Subsystem for Linux, PyMP, and Flask.
+
+### Face Mask Detection System | Artificial Intelligence
+
+- Developed an AI model to identify people without facial masks in cameras, contributing to COVID-19 safety measures.
+- Achieved an accuracy of 90% on unseen test data.
+- Utilized Jupyter Notebook and Python.
+
+## 🏆 Achievements
+
+- Earned 5-Star HackerRank SQL Badge
+- AI - 900 Certification (Score: 783/1000)
+- AZ - 900 Certification (Score: 790/1000)
+- SC - 900 Certification (Score: 880/1000)
+- AWS Cloud Practitioner (CLF-C01) Certification (Score: 717/1000)
 
   
 <hr/>
@@ -70,6 +113,7 @@
 <!-- Twitter -->
 <!--
 <p align="left"> <a href="https://twitter.com/yagneshpadarthy" target="blank"><img src="https://img.shields.io/twitter/follow/aman_s1708?logo=twitter&style=for-the-badge" alt="aman_s1708" /></a> </p> -->
+
 
 
 
