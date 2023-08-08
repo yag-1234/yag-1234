@@ -73,8 +73,10 @@
 
 
 
-<h1 align="center">CONNECT WITH ME</h1>
+<h1 align="center">💬 Let's Connect</h1>
 <p align="center">
+ I'm open to collaborations, discussions, and learning opportunities. Feel free to reach out to me via email at padarthyyagnesh.sai2020@vitstudent.ac.in or connect with me on [LinkedIn](https://www.linkedin.com/in/yagnesh-padarthy-3177b8240/).
+📫 [Email](mailto:padarthyyagnesh.sai2020@vitstudent.ac.in)
 <a href="https://twitter.com/yagneshpadarthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman_s1708" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yagnesh-padarthy-3177b8240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-singanamala-4aa05a206" height="30" width="40" /></a>
 <a href="https://www.instagram.com/padarthyyagnesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am_.aman_" height="30" width="40" /></a>
