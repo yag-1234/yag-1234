@@ -69,7 +69,7 @@
 
 <!-- Twitter -->
 <!--
-<p align="left"> <a href="https://twitter.com/aman_s1708" target="blank"><img src="https://img.shields.io/twitter/follow/aman_s1708?logo=twitter&style=for-the-badge" alt="aman_s1708" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/yagneshpadarthy" target="blank"><img src="https://img.shields.io/twitter/follow/aman_s1708?logo=twitter&style=for-the-badge" alt="aman_s1708" /></a> </p> -->
 
 
 
@@ -80,7 +80,5 @@
 <a href="https://www.instagram.com/padarthyyagnesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.am_.aman_" height="30" width="40" /></a>
 </p>
 
-
  <br>
  
-  <h3 align="center">Recent Blog On Medium</h3>
